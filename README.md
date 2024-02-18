@@ -1,4 +1,4 @@
-# News Sieve
+# News2Data
 A collection of tools for collecting, organizing, and ingesting information security news from many sources for future analysis. 
 
 Currently the utility supports Twitter profiles and generic RSS feeds as data sources. It primarily serves to process and ingest events into an Elasticsearch instance, but I hope to support other formats in the future. 
